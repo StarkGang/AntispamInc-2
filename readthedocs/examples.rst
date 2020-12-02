@@ -35,7 +35,7 @@ You Have To Enter Token In Token Parameter And User Id You Wanna Check in userid
       'userid': 1269383181
       }
    url = f'http://antispaminc.tk/info/'
-   myr = requests.get(url=url, data=data).json()
+   myr = requests.post(url=url, data=data).json()
    if myr['error'] == True:
       print(f"Something Went Wrong \nFull Error : {myr['full']}")
    else:
