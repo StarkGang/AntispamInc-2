@@ -4,7 +4,7 @@ Antispaminc And Telethon
 
 Telethon
 ========
-Lets Try To User A User As Soon He Arrives In Chat
+Lets Try To Ban A User As Soon He Arrives In Chat.
 
 .. code-block:: python
 
