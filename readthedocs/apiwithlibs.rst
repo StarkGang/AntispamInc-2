@@ -18,7 +18,7 @@ Lets Try To User A User As Soon He Arrives In Chat
             'token': 'yourtokenhere',
             'userid': juser.id
             }
-          url = f'http://www.antispaminc.cf/info/'
+          url = f'http://antispaminc.tk/info/'
           myr = requests.get(url=url, data=data).json()
           if myr['error'] == True:
             await event.reply(f"Welcome, But Something Went Wrong :| \nFull Error : {myr['full']}")
