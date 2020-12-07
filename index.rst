@@ -14,6 +14,10 @@ We Have Seen These Apis Admin Only Banning Users From Specific Country, Critisin
 We Have Mission Not To Do anything Like that.
 We Belive We All Are Humans And We Are One World
 
+Token
+------------
+Well, For Token You Can Contact @AntispamINcBot On Telegram.
+Or Pm @StarkXd
 
 .. toctree::
     :hidden:
