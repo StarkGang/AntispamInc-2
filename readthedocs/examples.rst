@@ -16,7 +16,7 @@ You Have To Enter Token In token Parameter And User Id You Wanna Check in userid
    print(sed2.reason)
    
 
-   PHP
+PHP
 ------------------
 .. code-block:: php
 
