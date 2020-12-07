@@ -18,3 +18,14 @@ Requests
   pip3 install requests
 
 | Make sure Its On Latest Version
+
+AntispamInc
+=============
+
+| Install With Pip
+
+.. code-block:: sh
+
+  pip3 install antispaminc
+
+| Make sure Its On Latest Version For Better Result.
