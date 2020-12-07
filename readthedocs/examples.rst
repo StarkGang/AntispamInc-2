@@ -15,7 +15,9 @@ You Have To Enter Token In token Parameter And User Id You Wanna Check in userid
    sed2 = sed.is_banned('12974624')
    print(sed2.reason)
    
-          
+
+   PHP
+------------------
 .. code-block:: php
 
    <?php
