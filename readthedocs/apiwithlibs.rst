@@ -15,7 +15,7 @@ Lets Try To Ban A User As Soon He Arrives In Chat.
     if event.user_joined:
         juser = await event.get_user()
         user = sclient.is_banned(juser.id)
-        if user.banned == True:
+        if user:
             await event.reply(
                 f"**#ANTISPAMINC** \n**Detected Malicious User.** \n**User-ID :** `{juser.id}`  \n**Reason :** `{user.reason}`"
             )
