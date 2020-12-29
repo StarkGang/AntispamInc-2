@@ -1,4 +1,4 @@
-tl_ref_url = 'https://www.NoSpamPlus.ml'
+tl_ref_url = 'http://NoSpamPlus.tk'
 
 extensions = [
     'sphinx.ext.autodoc',
