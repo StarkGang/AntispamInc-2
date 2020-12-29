@@ -8,12 +8,12 @@ You Have To Enter Token In token Parameter And User Id You Wanna Check in userid
 
 .. code-block:: python
    
-   from NoSpamPlus.connect import Connect, TokenNotFound
-   token = 'TokenHere'
-   userids = 1269383181
-   sclient = Connect(token)
-   sed2 = sed.is_banned('12974624')
-   print(sed2.reason)
+   from nospamplus.connect import Connect
+   mytoken = 'your_token_from_@nospamplusbot'
+   token_connect = Connect(mytoken)
+   user = token_connect.is_banned(12974624)
+   print(user.ban_code)
+   print(user.reason) 
    
 
 PHP
