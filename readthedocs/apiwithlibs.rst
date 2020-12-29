@@ -8,7 +8,7 @@ Lets Try To Ban A User As Soon He Arrives In Chat.
 
 .. code-block:: python
   
-  from NoSpamPlus.connect import Connect
+  from nospamplus.connect import Connect
   sclient = Connect('tokenhere')
   @client.on(ChatAction)
   async def ok(event):
