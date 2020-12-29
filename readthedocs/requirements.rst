@@ -26,6 +26,6 @@ AntispamInc
 
 .. code-block:: sh
 
-  pip3 install antispaminc
+  pip3 install NoSpamPlus
 
 | Make sure Its On Latest Version For Better Result.

@@ -9,7 +9,7 @@ Get Request
    import requests
    token = 'yourtokenhere'
    userids = <UseridHere>
-   url = f'http://www.antispaminc.ml/info/?userid={userids}&token=' + token
+   url = f'http://www.NoSpamPlus.ml/info/?userid={userids}&token=' + token
    myr = requests.get(url=url).json()
    if myr['error'] == True:
       print(f"Something Went Wrong \nFull Error : {myr['full']}")
@@ -29,7 +29,7 @@ Post request
       'token': 'yourtokenhere',
       'userid': <queryidhere>
       }
-   url = f'http://www.antispaminc.ml/info/'
+   url = f'http://www.NoSpamPlus.ml/info/'
    myr = requests.get(url=url, data=data).json()
    if myr['error'] == True:
       print(f"Something Went Wrong \nFull Error : {myr['full']}")

@@ -8,7 +8,7 @@ You Have To Enter Token In token Parameter And User Id You Wanna Check in userid
 
 .. code-block:: python
    
-   from antispaminc.connect import Connect, TokenNotFound
+   from NoSpamPlus.connect import Connect, TokenNotFound
    token = 'TokenHere'
    userids = 1269383181
    sclient = Connect(token)
@@ -25,7 +25,7 @@ PHP
    $userids = 1295;
    $token = "yourtokenhere";
    
-   echo file_get_contents("http://antispaminc.tk/info/?userid=$userids&token=$token");
+   echo file_get_contents("http://NoSpamPlus.tk/info/?userid=$userids&token=$token");
    
    ?>
 
