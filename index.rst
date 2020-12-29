@@ -16,7 +16,7 @@ We Belive We All Are Humans And We Are One World
 
 Token
 ------------
-Well, For Token You Can Contact @AntispamINcBot On Telegram.
+Well, For Token You Can Contact @NospamPlusBot On Telegram.
 Or Pm @StarkXd
 
 .. toctree::
