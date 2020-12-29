@@ -1,5 +1,5 @@
 ========================
-ANTI SPAM INC API
+NO SPAM PLUS API
 ========================
 
 Whats This?
