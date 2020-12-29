@@ -44,5 +44,5 @@ What is this?
 =============
 
 `| Telegram is a popular messaging application But is Full Of Spammers and Scammers.
-| We Have A Mission To Make Telegram Free of These People. So we Have Made Antispam Inc Api.
+| We Have A Mission To Make Telegram Free of These People. So we Have Made NoSpamPlus Api.
 | Usage is Very Simple, Read Below To Know More !`

@@ -4,7 +4,7 @@ ANTI SPAM INC API
 
 Whats This?
 -----------
-Antispam Inc Is a Simple Api To get Info About Spammers/Scammers Or Whatever. 
+NoSpamPlus Is a Simple Api To get Info About Spammers/Scammers Or Whatever. 
 Use it To make Telegram Spam Free.
 
 Why Use This?
