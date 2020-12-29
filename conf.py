@@ -11,7 +11,7 @@ source_suffix = ['.rst', '.md']
 
 master_doc = 'index'
 
-project = 'AntispamInc'
+project = 'NoSpamPlus'
 copyright = '2020 - Midhun Km'
 author = 'Midhun Km'
 
@@ -33,4 +33,4 @@ html_sidebars = {
     ]
 }
 
-htmlhelp_basename = 'AntispamInc'
+htmlhelp_basename = 'NoSpamPlus'

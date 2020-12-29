@@ -19,7 +19,7 @@ Requests
 
 | Make sure Its On Latest Version
 
-AntispamInc
+NoSpamPlus
 =============
 
 | Install With Pip
